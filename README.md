@@ -53,8 +53,8 @@ modo : busca igualdad o similitud : strict / relaxed
 ```
 remove_data("customer.json", "Martin", "name") 
   > Elimina el usuario que tenga el nombre Martin de la lista de clientes
-remove_data("works.json", "COY410", "lcplate")
-  > Elimina el trabajo que tenga el dominio COY410 de la lista de trabajos
+remove_data("works.json", "ABC104", "lcplate")
+  > Elimina el trabajo que tenga el dominio ABC104 de la lista de trabajos
 ```
 ### Parametros:
 ```
